@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {% include head.html %}
+    <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <script src="{{ '/assets/js/external-links.js' | relative_url }}" defer></script>
+  </head>
+  <body class="layout--single">
+    {% include skip-links.html %}
+    {% include masthead.html %}
+    <div class="custom-hero">
+      <img src="{{ page.header.image | default: site.header.image }}" alt="Header image" />
+      <div class="custom-hero-caption">
+        <a href="/">
+          <h1>disloops</h1>
+          <p>sysadmin and security</p>
+        </a>
+      </div>
+    </div>
+    <div class="page">
+      <div class="page__wrapper disloops-custom">
+        <div class="page__content">
+          <main id="main" role="main">
+            <div class="initial-content">
+              {% if page.title and page.collection == 'posts' %}
+                <div class="post-header">
+                  <h1 class="post-title">{{ page.title }}</h1>{% if page.date %}
+                    <time class="post-date" datetime="{{ page.date | date_to_xmlschema }}">
+                      {{ page.date | date: "%B %-d, %Y" }}
+                    </time>{% endif %}
+                </div>
+              {% endif %}
+              {{ content }}
+            </div>
+          </main>
+        </div>
+        <div class="sidebar">
+          <div class="sidebar__custom">
+            {% include sidebar-posts.html %}
+          </div>
+        </div>
+      </div>
+    </div>
+    <footer class="page__footer">
+      <div class="page__footer-follow">
+        <ul class="social-icons">
+          <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+        </ul>
+      </div>
+      <div class="page__footer-copyright">
+        Vibe-coded with Cursor AI and Claude Sonnet 4. Banner art by <a href="https://simonstalenhag.se/" target="_blank">Simon Stalenhag</a>.
+      </div>
+    </footer>
+    {% include scripts.html %}
+  </body>
+</html> 

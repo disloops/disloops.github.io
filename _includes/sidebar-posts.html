@@ -1,0 +1,8 @@
+{% assign posts = site.posts | sort: 'date' | reverse %}
+<p>Hello! I started this blog to share some of the admin and security projects I work on. Hopefully one of these posts will be the article that you were looking for.</p>
+<h3>All Posts</h3>
+<ul>
+{% for post in posts %}
+  <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul> 
