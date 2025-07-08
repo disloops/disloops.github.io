@@ -16,11 +16,11 @@ This website should look a little different to return visitors. That's because t
 
 # Motivation
 
-I deployed WordPress in AWS primarily as a learning process. For ten years it served as a great personal webpage and it compelled me to interact with a number of different AWS features and services. However, the rising cost and constant manual updates became a burden and I began to look for a simple alternative.
+I deployed WordPress in AWS primarily as a learning experience. For ten years it served as a great personal webpage and it compelled me to interact with a number of different AWS features and services. However, the rising cost and constant manual updates became a burden and I began to look for a simple alternative.
 
 Github Pages uses a regular `git` repo to host website content (mostly in markdown) which is processed by Jekyll and built into a static site. It is free to use and has support for custom domains.
 
-But how do I convert my existing site? Hopefully not another "learning process"...
+But how do I convert my existing site? Hopefully not another "learning experience"...
 
 <!--more-->
 
