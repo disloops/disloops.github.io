@@ -11,7 +11,7 @@ tags:
     - MUSH
 ---
 
-In [Part One](/back-alley-hacking-8bit-mush-part-one/) we discovered an object that lets us execute arbitrary commands via unsafe handling of user input - the Alley room. Now we want to understand the blast radius of this issue. The first question to ask is, "What does the Alley control?"
+In [Part One](/back-alley-hacking-8bit-mush-part-one/) we discovered an object that lets us execute arbitrary commands via unsafe handling of user input – the Alley room. Now we want to understand the blast radius of this issue. The first question to ask is, "What does the Alley control?"
 
 ```text
 Alley(#9485RISVB)
