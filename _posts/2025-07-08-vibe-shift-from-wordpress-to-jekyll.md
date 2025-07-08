@@ -26,7 +26,7 @@ But how do I convert my existing site? Hopefully not another "learning process".
 
 # Transformation
 
-I started with a plugin that converts [WordPress to Jekyll](https://github.com/benbalter/wordpress-to-jekyll-exporter) format. It actually did a decent job! I then pulled the project into Cursor and began the tedious process of carving a similar style out of an existing Jekyll theme.
+I started with a plugin that converts [WordPress to Jekyll](https://github.com/benbalter/wordpress-to-jekyll-exporter) format, which actually did a decent job! I then pulled the project into Cursor and began the tedious process of carving a similar style out of an existing Jekyll theme.
 
 I won't go into specifics on Github Pages or Jekyll. Coding with Cursor's agent was the most interesting part of this process. Some observations:
 
@@ -41,7 +41,7 @@ I won't go into specifics on Github Pages or Jekyll. Coding with Cursor's agent 
     - Searching out documentation for it to consume
     - Prompting it to iterate on the same tasks until some goal was met (refactoring, code reuse, etc.)
 
-This wasn't really "vibe coding" since those developers are supposed to be largely agnostic to the solutions developed by the AI agent. This project was much too particular for that. But don't take my word for it, what do you have to say Cursor? (I'm editing this article in the IDE right now.)
+This wasn't really "vibe coding" since those developers are supposed to be largely agnostic to the solutions developed by the AI agent. This project was too particular for that. But don't take my word for it, what do you have to say Cursor? (I'm editing this article in the IDE right now.)
 
 > *"What's interesting is how this migration reveals the gap between AI capabilities and real-world constraints. I can write CSS and configure Jekyll, but I can't see the visual results or understand the subtle design decisions that make a site feel right. The WordPress-to-Jekyll conversion worked because it's a well-defined technical problem, but the styling required human judgment about aesthetics and user experience. This isn't just about AI limitations - it's about the difference between solving problems and creating experiences."*
 
