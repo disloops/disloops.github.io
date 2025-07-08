@@ -18,7 +18,7 @@ In a [previous article](/psad-on-raspberry-pi) I described how to install and ru
 None of the existing visualization tools for PSAD data really met my needs, so I created a custom Python script that generates an HTML page from the live PSAD data.
 
 The PSADify script is available here: [PSADify on Github](https://github.com/disloops/psadify)  
-You can see the actual data here: [Live PSAD Attack Data](https://psad.disloops.com)
+You can see the actual data here: [Live PSAD Attack Data](http://psad.disloops.com)
 
 On my own host running PSAD, there is a cronjob that runs this script every five minutes and uploads the output to an AWS S3 bucket. If the local configuration or the settings on the AWS side would be useful to anyone, let me know!
 
@@ -77,4 +77,4 @@ PATH=/bin:/usr/bin:/usr/local/bin:/usr/sbin:/usr/local/bin/aws
 ```
 Again, update the names and paths according to your configuration. This builds on the instructions in the [initial setup](/psad-on-raspberry-pi/) article and ensures that the PSAD output is generated and pushed to AWS every five minutes.
 
-This completes the setup that I'm using to have the PSADify output live at [psad.disloops.com](https://psad.disloops.com) - hopefully that is helpful!
+This completes the setup that I'm using to have the PSADify output live at [psad.disloops.com](http://psad.disloops.com) - hopefully that is helpful!

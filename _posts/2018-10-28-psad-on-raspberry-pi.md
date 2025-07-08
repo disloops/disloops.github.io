@@ -17,7 +17,7 @@ I have never gotten a full intrusion detection system (IDS) working correctly on
 
 I recently came across [PSAD](https://github.com/mrash/psad) – the Port Scan Attack Detector. It is essentially a collection of daemons that analyze `iptables` logs to identify patterns of malicious traffic. When used in conjunction with [fwsnort](https://github.com/mrash/fwsnort), PSAD can also correlate blocked traffic with many of the "Emerging Threats" Snort rules.
 
-PSAD was extremely easy to set up on a Raspberry Pi that's deployed as a catch-all DMZ host on my home network. Before diving into the details, you can see live data being collected by that host here: <https://psad.disloops.com>
+PSAD was extremely easy to set up on a Raspberry Pi that's deployed as a catch-all DMZ host on my home network. Before diving into the details, you can see live data being collected by that host here: <http://psad.disloops.com>
 
 <!--more-->
 
@@ -155,7 +155,7 @@ sudo psad --Status
 ```
 There are some visualization tools available for PSAD but nothing that met my needs. Instead, I created a script that generates an HTML page from the data contained in the PSAD output files. You can download it here: [PSADify on Github](https://github.com/disloops/psadify)
 
-Take a look at the [output data](https://psad.disloops.com) and let me know if you have any observations!
+Take a look at the [output data](http://psad.disloops.com) and let me know if you have any observations!
 
 # Sources
 
