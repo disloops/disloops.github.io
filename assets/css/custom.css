@@ -318,10 +318,12 @@ h1.post-title a:hover {
 .image-caption {
   text-align: center;
   font-style: italic;
-  color: var(--color-main);
-  margin-top: var(--spacing-sm);
+  color: var(--color-text-muted);
+  margin-top: 0;
   margin-bottom: var(--spacing-md);
 }
+
+
 
 /* ===== TABLE STYLING ===== */
 table {
