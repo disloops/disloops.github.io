@@ -26,7 +26,7 @@ First I'll explain how I installed Snort at home.
 
 # Snort on Ubuntu
 
-I used a [guide](https://cdn.disloops.com/files/tech/snort_on_ubuntu.pdf) on Snort's website for installation on Ubuntu 14.04 LTS. I had some issues with it, which I will describe below.
+I used a [guide](/assets/documents/2016/01/snort_on_ubuntu.pdf) on Snort's website for installation on Ubuntu 14.04 LTS. I had some issues with it, which I will describe below.
 
 {: .notice--info}
 **Note:** The author's [website](http://sublimerobots.com/) makes some of these corrections and may have the most recent information.
