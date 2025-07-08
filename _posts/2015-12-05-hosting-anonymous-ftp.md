@@ -83,7 +83,7 @@ ssl_ciphers=HIGH
 This enables "Explicit TLS" connections.
 
 {: .notice--info}
-**FYI:** TLS has been removed from the FTP server because I don't want to manage my own certificates now that the main `disloops.com` domain is hosted on Github Pages.
+**Note:** TLS has since been removed from the FTP server because I don't want to manage my own certificates now that the main `disloops.com` domain is hosted on Github Pages.
 
 # Server Configuration
 
@@ -126,7 +126,7 @@ sudo chmod 600 /etc/ssl/private/disloops_com.key
 ```
 
 {: .notice--info}
-**FYI:** TLS has been removed from the FTP server because I don't want to manage my own certificates now that the main `disloops.com` domain is hosted on Github Pages.
+**Note:** TLS has since been removed from the FTP server because I don't want to manage my own certificates now that the main `disloops.com` domain is hosted on Github Pages.
 
 # Quotas
 
