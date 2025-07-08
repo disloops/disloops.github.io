@@ -1,9 +1,8 @@
 ---
-pagination:
-  enabled: true
+layout: no-header-title
 ---
 
-{% for post in paginator.posts %}
+{% for post in site.posts %}
   <article class="post">
     <header class="post-header post-header--compact">
       <h1 class="post-title">
@@ -23,5 +22,3 @@ pagination:
     </div>
   </article>
 {% endfor %}
-
-{% include paginator.html %}
