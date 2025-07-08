@@ -6,10 +6,10 @@ author: matt
 guid: '/?p=2950'
 permalink: /mush-gpt-the-oracle/
 categories:
-    - ChatGPT
+    - OpenAI
     - MUSH
 tags:
-    - ChatGPT
+    - OpenAI
     - MUSH
 ---
 

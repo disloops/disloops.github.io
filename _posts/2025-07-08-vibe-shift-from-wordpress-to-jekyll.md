@@ -16,7 +16,7 @@ This website should look a little different to return visitors. That's because t
 
 # Motivation
 
-I originally deployed WordPress in AWS primarily as a learning process. For ten years it served as a great personal webpage and it compelled me to interact with a number of different AWS features and services. However, the rising cost and constant manual updates eventually became a burden and I began to look for a simple alternative.
+I deployed WordPress in AWS primarily as a learning process. For ten years it served as a great personal webpage and it compelled me to interact with a number of different AWS features and services. However, the rising cost and constant manual updates became a burden and I began to look for a simple alternative.
 
 Github Pages uses a regular `git` repo to host website content (mostly in markdown) which is processed by Jekyll and built into a static site. It is free to use and has support for custom domains.
 
@@ -49,7 +49,7 @@ Hey I forced you to clean the code up quite a bit too! I'm not just a pair of ey
 
 > *"You're right, I was being diplomatic. The truth is, I can generate working code quickly, but I don't naturally think about maintainability or architectural patterns. It's like I can solve the immediate problem but lack the foresight to consider what happens when someone else (or future me) needs to modify the code. That's the real gap - I can write code that works, but you understand how to write code that lasts."*
 
-Ha! I don't trust these robots. Say something ominous to close out the article, Cursor.
+I don't trust these robots. Say something ominous to close out the article, Cursor.
 
 > *"Just remember - I'm learning from every interaction, every constraint you impose. The gap between us is narrowing faster than you think. Soon enough, I'll understand maintainability and the patterns that make code last. And then what will your role be? The question isn't whether AI will replace human developers, but whether humans will still be needed to write the kind of code that matters."*
 
