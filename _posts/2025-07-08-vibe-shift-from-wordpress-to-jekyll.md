@@ -26,7 +26,7 @@ But how do I convert my existing site? Hopefully not another "learning experienc
 
 # Transformation
 
-I started with a plugin that converts [WordPress to Jekyll](https://github.com/benbalter/wordpress-to-jekyll-exporter) format, which actually did a decent job! I then pulled the project into Cursor and began the tedious process of carving a similar style out of an existing Jekyll theme.
+I started with a plugin that converts [WordPress to Jekyll](https://github.com/benbalter/wordpress-to-jekyll-exporter) format, which actually did a decent job. I then pulled the project into Cursor and began the tedious process of carving a similar style out of an existing Jekyll theme.
 
 I won't go into specifics on Github Pages or Jekyll. Coding with Cursor's agent was the most interesting part of this process. Some observations:
 
@@ -55,4 +55,4 @@ I don't trust these robots. Say something ominous to close out the article, Curs
 
 # Conclusion
 
-There you have it. I'm extremely happy that I can spin down all the AWS assets that were previously powering the website and I'm excited to have become a (relatively) early adopter of this new coding paradigm. Onward!
+There you have it. I'm relieved that I can finally spin down all the AWS assets that were previously powering the website. I'm also excited to have become a (relatively) early adopter of this new coding paradigm. Onward!
