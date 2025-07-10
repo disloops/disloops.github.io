@@ -30,7 +30,7 @@ I started with a plugin that converts [WordPress to Jekyll](https://github.com/b
 
 I won't go into specifics on Github Pages or Jekyll. Coding with Cursor's agent was the most interesting part of this process. Some observations:
 
- - Cursor's agent definitely expedited the coding process – we're never going back.
+ - Cursor's agent absolutely expedited the coding process – we're never going back.
  - I quickly allowed the agent to do whatever it wanted without prompting for permission.
     - In one instance, this meant that the agent actually pushed code to production before I could stop it.
  - It's very helpful to have the agent `curl` a live version of the page and see the result of its own changes.
