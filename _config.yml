@@ -102,6 +102,7 @@ defaults:
       comments: false
       excerpt_separator: "<!--more-->"
       show_excerpts: false
+      description: "sysadmin and security"
 
       header:
         image: /assets/images/header.jpg
@@ -116,6 +117,7 @@ defaults:
       layout: "no-header-title"
       author: "matt"
       author_profile: true
+      description: "sysadmin and security"
       header:
         image: /assets/images/header.jpg
         overlay_image: /assets/images/header.jpg
@@ -150,7 +152,7 @@ paginate_path: "page/:num/"
 title_separator: "|"
 twitter:
   username: disloops
-  card: summary
+  card: summary_large_image
 facebook:
   app_id: ""
   publisher: ""
@@ -164,6 +166,6 @@ open_graph:
   site_name: "disloops"
   images:
     - path: "/assets/images/header.jpg"
-      height: ""
-      width: ""
+      height: "630"
+      width: "1200"
 
