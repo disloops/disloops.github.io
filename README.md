@@ -23,6 +23,15 @@ Visit the live site at: [disloops.com](https://disloops.com)
    ```
 4. Open [http://localhost:4000](http://localhost:4000) in your browser
 
+## Notes
+
+### Video Optimization
+When adding or replacing video files, optimize them for web streaming:
+```bash
+ffmpeg -i input.mp4 -c copy -movflags +faststart output.mp4
+```
+This moves the metadata to the beginning of the file so browsers can stream without downloading the entire file first.
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
