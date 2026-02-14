@@ -10,9 +10,7 @@ This page compiles the nutrition and fitness stuff that I'm doing at any given t
 
 ## Supplement Routine
 
-I don't like plain water. Instead I fill a [half gallon glass jug](https://www.amazon.com/NiceBottles-Glass-Half-Gallon-Pack/dp/B07C7TSQ1M) with water and add a cup of [pure cranberry juice](https://lakewoodorganic.com/products/lakewood-organic-pure-cranberry-juice-32-ounce-pack-of-6). It helps to wash down vitamins and I try to get through two each day. I think it's important to drink cold water as soon as you're awake before consuming anything else. I also drink coffee mixed with this [Collagen and MCT Oil](https://www.amazon.com/Perfect-Keto-Chocolate-Protein-Powder/dp/B072KFZ9TQ). Collagen supports the structure of your hair, skin, muscles, bones and connective tissues.
-
-Update: Although I am now trying this instead: [Noble All-in-One Protein: Chocolate](https://nobleorigins.com/products/noble-all-in-one-protein-chocolate) - "Grass-fed beef protein isolate, collagen, colostrum, and a unique organ blend."
+I don't like plain water. Instead I fill a [half gallon glass jug](https://www.amazon.com/NiceBottles-Glass-Half-Gallon-Pack/dp/B07C7TSQ1M) with water and add a cup of [pure cranberry juice](https://lakewoodorganic.com/products/lakewood-organic-pure-cranberry-juice-32-ounce-pack-of-6). It helps to wash down vitamins and I try to get through two each day. I think it's important to drink cold water as soon as you're awake before consuming anything else. I also drink coffee mixed with [Noble All-in-One Protein: Chocolate](https://nobleorigins.com/products/noble-all-in-one-protein-chocolate) - "Grass-fed beef protein isolate, collagen, colostrum, and a unique organ blend."
 
 I take three supplements when I exercise:
 
