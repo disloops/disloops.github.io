@@ -38,4 +38,4 @@ I take the following supplements after dinner each day because I want to have a 
 - [Solgar Glucosamine Chondroitin Complex](https://www.solgar.com/products/extra-strength-glucosamine-chondroitin-complex-tablets/) – Supports joints and cartilage.
 - [Solgar Korean Ginseng](https://www.solgar.com/products/sfp-korean-ginseng-root-extract-vegetable-capsules/) – An "adaptogen" that helps the body stabilize and respond to stress. This is a good one to cycle on and off periodically.
 - [Solgar Omega-3 Fish Oil](https://www.solgar.com/products/triple-strength-omega-3-950mg-softgels/) – Look for wild caught, cold water fish with heavy metals removed.
-- [Thorne Berberine](https://www.thorne.com/products/dp/berberine-500) – [Analysis](https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2022.1013055/full) found it lowers triglycerides, LDL cholesterol and fasting blood glucose.
+- [Thorne Berberine](https://www.thorne.com/products/dp/berberine-500) – Lowers triglycerides, LDL cholesterol and fasting blood glucose.
