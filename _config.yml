@@ -56,6 +56,9 @@ logo_text               : ""
 
 
 
+include:
+  - .well-known
+
 plugins:
   - jekyll-feed
   - jekyll-include-cache
